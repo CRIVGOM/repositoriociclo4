@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./barra-navegacion.component.css']
 })
 export class BarraNavegacionComponent {
-
+  constructor() {}
+  ngOnInit(): void{}
 }
